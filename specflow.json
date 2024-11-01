@@ -1,0 +1,11 @@
+{
+    "specFlow": {
+        "unitTestProvider": {
+            "name": "NUnit",
+            "generator": "MsBuild"
+        },
+        "livingDoc": {
+            "outputPath": "Reports/LivingDoc.json"
+        }
+    }
+}
