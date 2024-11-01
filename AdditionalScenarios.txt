@@ -1,0 +1,15 @@
+﻿Functional Scenarios 
+1. Verify Journey planner result with arrive by time 
+2. Verify Journey planner result according to leavening now 
+3. Verify Journey planner result according to leaveing at specific time
+4. Verify Journey planner result according to Arriving By a specific time
+5. Verify off peak fare information of journey if tube is selected 
+6. Verify peak fare information of journey if tube is selected 
+7. Verify unselected preferences are not shown in journey planner results
+
+
+
+Non Functional Scenarios:
+
+Performance Testing: Journey Planner API's should be response according to SLA agreed.
+Accessibility Testing: Verify That Journey planner is accessibility compliance as of WCAG2.2 standards
